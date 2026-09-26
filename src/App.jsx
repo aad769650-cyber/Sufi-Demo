@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter, createBrowserRouter, RouterProvider } from 'react-router-dom'
-import MainLayout from './layout/MainLayout'
 
 import Products from './Products'
+import MainLayout from './Layout/MainLayout'
 
 const App = () => {
 
